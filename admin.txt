@@ -1,3 +1,4 @@
 admin text
 admin only
 Are you really an admin?
+Are you a servant of Loki?
